@@ -6,7 +6,7 @@ class Imemo < Formula
   desc "Save memo easily on terminal"
   homepage "https://github.com/kcwebapply/imemo"
   url "https://github.com/kcwebapply/imemo/archive/1.0.0.tar.gz"
-  sha256 "fe443ab343e7f335dfa05b772512bc75c303812f43ba7795d7ed1b6a8ca15e70"
+  sha256 "7a01c6fa44dd5a31896e33a38e01f38fcd7431cfd3e5ba497c69a48f98755ccf"
 
   depends_on "dep" => :build
   depends_on "go" => :build

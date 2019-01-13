@@ -1,6 +1,6 @@
 require "formula"
 
-HOMEBREW_IMEMO_VERSION='0.0.1'
+HOMEBREW_IMEMO_VERSION='1.0.1'
 
 class Imemo < Formula
   desc "Save memo easily on terminal"

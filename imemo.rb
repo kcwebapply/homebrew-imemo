@@ -5,8 +5,8 @@ HOMEBREW_IMEMO_VERSION='1.0.2'
 class Imemo < Formula
   desc "Save memo easily on terminal"
   homepage "https://github.com/kcwebapply/imemo"
-  url "https://github.com/kcwebapply/imemo/archive/1.0.2.tar.gz"
-  sha256 "dfa0deb8209efeab529a6e5f271445c14ded5d3033f12ad6e0a071ed0af7835d"
+  url "https://github.com/kcwebapply/imemo/archive/1.0.3.tar.gz"
+  sha256 "16a47913b44ab076c9feccaf8b16e497d4c2175d8770320b74dae978db28e0ff"
 
   depends_on "dep" => :build
   depends_on "go" => :build
